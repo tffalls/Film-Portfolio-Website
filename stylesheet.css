@@ -1,0 +1,14 @@
+#vpic {
+  width:45%;
+  height:45%;
+  margin:auto;
+}
+
+#nav {
+  color: white;
+}
+
+#nav:hover {
+  color: pink;
+  text-decoration: none;
+}
